@@ -1,0 +1,5 @@
+{
+  "name": "SCHOA - Smart Clinical & Operational Assistant",
+  "description": "A comprehensive hospital management system integrating Gemini AI for clinical documentation support, operational financial analysis, and FHIR-based patient data retrieval.",
+  "requestFramePermissions": []
+}
